@@ -1,4 +1,10 @@
-Simple clicker game med with react.
+Simple clicker game made with react.
+
+Clone repo
+
+npm install
+
+npm start
 
 
 # Getting Started with Create React App
