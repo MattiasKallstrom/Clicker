@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from '../images/cookie-gif.gif';
-import '../css/TheCookie.css'
+import '../css/thecookie.css'
 
 class MainClicker extends React.Component{
     constructor(props){

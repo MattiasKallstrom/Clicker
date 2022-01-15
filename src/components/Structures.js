@@ -1,5 +1,5 @@
 import React from 'react';
-import '../css/TheCookie.css';
+import '../css/thecookie.css';
 class Structures extends React.Component{
 
     render(){
