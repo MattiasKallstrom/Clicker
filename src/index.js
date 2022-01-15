@@ -6,7 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { BrowserRouter } from 'react-router-dom';
 
 const app = (
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
+  <BrowserRouter basename="/Clicker">
     <App />
   </BrowserRouter>
 );
