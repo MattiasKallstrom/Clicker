@@ -1,6 +1,6 @@
 {
-  "homepage": "http://MattiasKallstrom.github.io/Clicker",
-  "name": "clicker",
+  "homepage": "http://MattiasKallstrom.github.io/clicker",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
