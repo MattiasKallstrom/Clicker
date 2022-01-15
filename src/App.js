@@ -61,7 +61,7 @@ class App extends Component {
   }
   render(){
     return (
-      <Router>
+      <Router basename="/Clicker">
         <div className="App">
           <Switch>
             <Route exact path="/" render={(props) => (
