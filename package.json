@@ -31,6 +31,9 @@
       "react-app/jest"
     ]
   },
+  "overrides": {
+    "mini-css-extract-plugin": "2.4.5"
+  },
   "browserslist": {
     "production": [
       ">0.2%",
@@ -42,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "mini-css-extract-plugin": "2.4.5"
   }
 }
