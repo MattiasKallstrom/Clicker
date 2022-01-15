@@ -2,7 +2,7 @@
   "homepage": "http://MattiasKallstrom.github.io/Clicker",
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.3",
