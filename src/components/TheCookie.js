@@ -1,7 +1,7 @@
 import React from 'react';
-import Structures from './Structures';
-import ShowScore from './Score';
-import MainClicker from './MainClicker';
+import Structures from './structures';
+import ShowScore from './score';
+import MainClicker from './mainclicker';
 import '../css/TheCookie.css';
 
 class TheCookie extends React.Component{

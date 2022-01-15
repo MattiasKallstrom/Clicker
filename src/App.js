@@ -1,8 +1,8 @@
 import './App.css';
 import React, { Component } from 'react';
-import Databank from './components/Databank';
+import Databank from './components/databank';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-import TheCookie from './components/TheCookie';
+import TheCookie from './components/thecookie';
 
 class App extends Component {
   
