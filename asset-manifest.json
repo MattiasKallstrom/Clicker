@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Clicker/static/css/main.521ac2fc.chunk.css",
+    "main.js": "/Clicker/static/js/main.a21fe4b9.chunk.js",
+    "main.js.map": "/Clicker/static/js/main.a21fe4b9.chunk.js.map",
+    "runtime-main.js": "/Clicker/static/js/runtime-main.83a8a439.js",
+    "runtime-main.js.map": "/Clicker/static/js/runtime-main.83a8a439.js.map",
+    "static/js/2.53738673.chunk.js": "/Clicker/static/js/2.53738673.chunk.js",
+    "static/js/2.53738673.chunk.js.map": "/Clicker/static/js/2.53738673.chunk.js.map",
+    "static/js/3.e6eef4c5.chunk.js": "/Clicker/static/js/3.e6eef4c5.chunk.js",
+    "static/js/3.e6eef4c5.chunk.js.map": "/Clicker/static/js/3.e6eef4c5.chunk.js.map",
+    "index.html": "/Clicker/index.html",
+    "static/css/main.521ac2fc.chunk.css.map": "/Clicker/static/css/main.521ac2fc.chunk.css.map",
+    "static/js/2.53738673.chunk.js.LICENSE.txt": "/Clicker/static/js/2.53738673.chunk.js.LICENSE.txt",
+    "static/media/cookie-gif.676ae6e4.gif": "/Clicker/static/media/cookie-gif.676ae6e4.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83a8a439.js",
+    "static/js/2.53738673.chunk.js",
+    "static/css/main.521ac2fc.chunk.css",
+    "static/js/main.a21fe4b9.chunk.js"
+  ]
+}
